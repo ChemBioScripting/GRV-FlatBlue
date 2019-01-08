@@ -5,6 +5,6 @@
 
 [![IMAGE ALT TEXT](https://github.com/ChemBioScripting/GRV-FlatBlue/blob/master/YouTube_Cover.jpg)](https://youtu.be/dh8zBcfsKX0 "Linux User Experience (UX) Enhanced With Compiz on a Laptop Under €300")
 
-In the screenshot has been used the **Canta-light** *GTK theme* with the **Lüv** *Icons Pack* and **Roboto** *font;* in *Fedora Linux*, for example, the latter can be installed by giving the command:
+In the screenshot has been used the **Canta-light** *GTK theme* with the **Lüv** *Icons Pack* and **Roboto** *font;* in *Fedora Linux*, for example, the latter can be installed by giving the following command in a terminal:
 
 ```$ sudo dnf install google-roboto-fonts```
