@@ -1,0 +1,31 @@
+DESKTOP EDGES:
+    TOP-RIGHT: Scale Plugin/Associations (Plugin Scala Finestra/Associazioni) -> initiate_all_edge -> TopRight
+    BOTTOM-RIGHT: Shift Switcher Plugin/Key Bindings (Plugin Selettore A Scorrimento/Scorciatoie Da Tastiera) -> initiate_edge -> BottomRight
+    BOTTOM-LEFT: General/General Options/Keys Associations (Generale/Opzioni Generali/Associazioni Tasti)-> show_desktop_edge -> BottomLeft
+
+KEYBOARD:
+    <CTRL>+<ALT>+<LMB>: SPHERE
+    <CTRL>+<ALT>+ARROW_DOWN/LEFT/RIGHT: SCROLL DESKTOPS
+    <CTRL>+<SUPER>: SHOW CURSOR
+    
+    <SUPER>+<TAB>: SCROLL WINDOWS (COUNTERCLOCKWISE)
+    <SUPER>+<SHIFT>+<TAB>: SCROLL WINDOWS (CLOCKWISE)
+    <ALT>+<TAB>+<WHEEL>: SCROLL WINDOWS
+
+    Tile Windows (Accosta Finestre):
+        <SUPER>+<V>: Tile Windows Vertically (Affianca Finestre Verticalmente)
+        <SUPER>+<H>: Tile Windows Horizontally (Affianca Finestre Orizzontalmente)
+        <SUPER>+<A>: Tile Windows (Affianca Finestre)
+        <SUPER>+<C>: Tile Windows As Cascade (Affianca Finestre A Cascata)
+        <SUPER>+<X>: Toggle between Tile and Restore (Passa dall'Accostamento alla Normalità)
+        DISABILITO: Toggle Tiling (Commuta Accostamento)
+
+    Zoom Desktop:
+        <SUPER>+<WHEEL>: Zoom In/Out
+        <SUPER>+<Z>: Adapt Zoomed Area To Window; <SUPER>+<WHEEL> To Restore The Zoom (Adatta Area Ingrandita Alla Finestra; <SUPER>+<ROTELLA DEL MOUSE> Per Ripristinare Lo Zoom)
+        <SUPER>+<MMB>+<RECTANGULAR MOUSE SELECTION>: Zoom To Rectangular Mouse Selection (Ingrandisce l'Area Selezionata Col Riquadro)
+
+LEGENDA:
+<SUPER> = WINDOWS KEY
+<LMB> = LEFT MOUSE BUTTON
+<MMB> = MIDDLE MOUSE BUTTON
