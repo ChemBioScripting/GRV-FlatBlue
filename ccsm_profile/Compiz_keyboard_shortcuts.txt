@@ -11,7 +11,7 @@ KEYBOARD:
     <SUPER>+<TAB>: SCROLL WINDOWS (COUNTERCLOCKWISE)
     <SUPER>+<SHIFT>+<TAB>: SCROLL WINDOWS (CLOCKWISE)
     <ALT>+<TAB>+<WHEEL>: SCROLL WINDOWS
-	<ALT>+C: FOCUS WINDOWS (ADD, Attention Deficit Disorder)
+    <ALT>+C: FOCUS WINDOWS (ADD, Attention Deficit Disorder)
 
     Tile Windows (Accosta Finestre):
         <SUPER>+<V>: Tile Windows Vertically (Affianca Finestre Verticalmente)
@@ -21,15 +21,15 @@ KEYBOARD:
         <SUPER>+<X>: Toggle between Tile and Restore (Passa dall'Accostamento alla Normalità)
         DISABILITO: Toggle Tiling (Commuta Accostamento)
 
-		<SUPER>+1: Move Window to the bottom left (Muove la finestra in basso a sinistra)
-		<SUPER>+2: Move Window to the bottom (Muove la finestra in basso)
-		<SUPER>+3: Move Window to the bottom right (Muove la finestra in basso a destra)
-		<SUPER>+4: Move Window to the left (Muove la finestra a sinistra)
-		<SUPER>+5: Move Window to the middle (Muove la finestra al centro)
-		<SUPER>+6: Move Window to the right (Muove la finestra a destra)
-		<SUPER>+7: Move Window to the top left (Muove la finestra in alto a sinistra)
-		<SUPER>+8: Move Window to the top (Muove la finestra in alto)
-		<SUPER>+9: Move Window to the top right (Muove la finestra in alto a destra)
+	<SUPER>+1: Move Window to the bottom left (Muove la finestra in basso a sinistra)
+	<SUPER>+2: Move Window to the bottom (Muove la finestra in basso)
+	<SUPER>+3: Move Window to the bottom right (Muove la finestra in basso a destra)
+	<SUPER>+4: Move Window to the left (Muove la finestra a sinistra)
+	<SUPER>+5: Move Window to the middle (Muove la finestra al centro)
+	<SUPER>+6: Move Window to the right (Muove la finestra a destra)
+	<SUPER>+7: Move Window to the top left (Muove la finestra in alto a sinistra)
+	<SUPER>+8: Move Window to the top (Muove la finestra in alto)
+	<SUPER>+9: Move Window to the top right (Muove la finestra in alto a destra)
 
     Zoom Desktop:
         <SUPER>+<WHEEL>: Zoom In/Out
